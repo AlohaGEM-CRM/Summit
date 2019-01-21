@@ -1,0 +1,18 @@
+D:\Summit\DataCommunication\SummitShopApp.DAL\bin\Release\SummitShopApp.DAL.dll.config
+D:\Summit\DataCommunication\SummitShopApp.DAL\bin\Release\SummitShopApp.DAL.dll
+D:\Summit\DataCommunication\SummitShopApp.DAL\bin\Release\SummitShopApp.DAL.pdb
+D:\Summit\DataCommunication\SummitShopApp.DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Summit\DataCommunication\SummitShopApp.DAL\obj\Release\SummitShopApp.DAL.dll
+D:\Summit\DataCommunication\SummitShopApp.DAL\obj\Release\SummitShopApp.DAL.pdb
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.DAL\bin\Release\SummitShopApp.DAL.dll.config
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.DAL\bin\Release\SummitShopApp.DAL.dll
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.DAL\bin\Release\SummitShopApp.DAL.pdb
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.DAL\obj\Release\SummitShopApp.DAL.dll
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.DAL\obj\Release\SummitShopApp.DAL.pdb
+C:\Summit\DataCommunication\SummitShopApp.DAL\bin\Release\SummitShopApp.DAL.dll.config
+C:\Summit\DataCommunication\SummitShopApp.DAL\bin\Release\SummitShopApp.DAL.dll
+C:\Summit\DataCommunication\SummitShopApp.DAL\bin\Release\SummitShopApp.DAL.pdb
+C:\Summit\DataCommunication\SummitShopApp.DAL\obj\Release\ResolveAssemblyReference.cache
+C:\Summit\DataCommunication\SummitShopApp.DAL\obj\Release\SummitShopApp.DAL.dll
+C:\Summit\DataCommunication\SummitShopApp.DAL\obj\Release\SummitShopApp.DAL.pdb

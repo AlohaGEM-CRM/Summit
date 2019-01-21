@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\Summit\DataCommunication\AIManageRecurringActivity\bin\Debug\AIManageRecurringActivity.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Summit\DataCommunication\AIManageRecurringActivity\bin\Debug\AIManageRecurringActivity.InstallLog
+   assemblypath = D:\Summit\DataCommunication\AIManageRecurringActivity\bin\Debug\AIManageRecurringActivity.exe
+Installing service AIManageRecurring...
+Service AIManageRecurring has been successfully installed.
+Creating EventLog source AIManageRecurring in log Application...
+Committing assembly 'D:\Summit\DataCommunication\AIManageRecurringActivity\bin\Debug\AIManageRecurringActivity.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Summit\DataCommunication\AIManageRecurringActivity\bin\Debug\AIManageRecurringActivity.InstallLog
+   assemblypath = D:\Summit\DataCommunication\AIManageRecurringActivity\bin\Debug\AIManageRecurringActivity.exe

@@ -1,0 +1,56 @@
+D:\SummitShopApp\ShopApplication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.dll
+D:\SummitShopApp\ShopApplication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.pdb
+D:\SummitShopApp\ShopApplication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.dll
+D:\SummitShopApp\ShopApplication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.pdb
+D:\SummitShopApp\ShopApplication\SummitShopApp.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\SummitShopApp\ShopApplication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.dll
+D:\SummitShopApp\ShopApplication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.pdb
+D:\DataCommunication\SummitShopApp.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\DataCommunication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.dll
+D:\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.dll
+D:\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.pdb
+D:\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.dll
+D:\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.pdb
+D:\DataCommunication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.pdb
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.dll
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.pdb
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.dll
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.pdb
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.dll
+D:\Summit\Local Server\Live Server Code\DataCommunication\DataCommunication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.pdb
+E:\SummitApp\DataCommunication\Data Communication\SummitShopApp.BL\obj\Debug\ResolveAssemblyReference.cache
+E:\SummitApp\DataCommunication\Data Communication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.dll
+E:\SummitApp\DataCommunication\Data Communication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.pdb
+E:\SummitApp\DataCommunication\Data Communication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.dll
+E:\SummitApp\DataCommunication\Data Communication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.pdb
+E:\SummitApp\DataCommunication\Data Communication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.dll
+E:\SummitApp\DataCommunication\Data Communication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.pdb
+D:\Summit\Local Server\Live Server Code\Data Communication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.dll
+D:\Summit\Local Server\Live Server Code\Data Communication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.pdb
+D:\Summit\Local Server\Live Server Code\Data Communication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.dll
+D:\Summit\Local Server\Live Server Code\Data Communication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.pdb
+D:\Summit\Local Server\Live Server Code\Data Communication\SummitShopApp.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Summit\Local Server\Live Server Code\Data Communication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.dll
+D:\Summit\Local Server\Live Server Code\Data Communication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.pdb
+C:\Summit\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.dll
+C:\Summit\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.pdb
+C:\Summit\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.dll
+C:\Summit\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.pdb
+C:\Summit\DataCommunication\SummitShopApp.BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Summit\DataCommunication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.dll
+C:\Summit\DataCommunication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.pdb
+D:\Summit\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.dll
+D:\Summit\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.pdb
+D:\Summit\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.dll
+D:\Summit\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.pdb
+D:\Summit\DataCommunication\SummitShopApp.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Summit\DataCommunication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.dll
+D:\Summit\DataCommunication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.pdb
+D:\summit\ps_pt\Branches\DataCommunication\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.dll
+D:\summit\ps_pt\Branches\DataCommunication\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.BL.pdb
+D:\summit\ps_pt\Branches\DataCommunication\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.dll
+D:\summit\ps_pt\Branches\DataCommunication\DataCommunication\SummitShopApp.BL\bin\Debug\SummitShopApp.DAL.pdb
+D:\summit\ps_pt\Branches\DataCommunication\DataCommunication\SummitShopApp.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\summit\ps_pt\Branches\DataCommunication\DataCommunication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.dll
+D:\summit\ps_pt\Branches\DataCommunication\DataCommunication\SummitShopApp.BL\obj\Debug\SummitShopApp.BL.pdb

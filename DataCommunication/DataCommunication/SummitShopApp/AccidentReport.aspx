@@ -8,7 +8,7 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <p runat ="server" id ="tilteText" class="TitleTextBack">
-        List of Rental Car Companies
+        List of Rental Car Companies:-
     </p>
 </asp:Content>
  
